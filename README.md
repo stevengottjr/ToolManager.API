@@ -19,6 +19,6 @@ I currently work in manufacturing engineering and oversee programming for multip
 SQLite is used as the database. ToolMgr.db is included for testing purposes. Intended path is user\appdata\local\ToolMgr.db
 
 ## Code:You Capstone Project Requirements:
-MY project is a RESTful asyncronous CRUD API. In total the database has 7 tables and creates relationships between them as described above. I intend to build a proper frontend for this API using Vue.js or similar in the future, but in order to submit the project by the due date, all testing should be done using Swagger. 
+My project is a RESTful asyncronous CRUD API. In total the database has 7 tables and creates relationships between them as described above. I intend to build a proper frontend for this API using Vue.js or similar in the future, but in order to submit the project by the due date, all testing should be done using Swagger. 
 
 
