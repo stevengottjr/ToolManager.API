@@ -1,0 +1,70 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "C:\\Users\\steve\\AppData\\Local\\ToolMgr.dbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "ToolManager",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "Holders",
+         "ObjectType": 0
+      },
+      {
+         "Name": "Inserts",
+         "ObjectType": 0
+      },
+      {
+         "Name": "Machines",
+         "ObjectType": 0
+      },
+      {
+         "Name": "MachineTools",
+         "ObjectType": 0
+      },
+      {
+         "Name": "Screws",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ToolAssemblies",
+         "ObjectType": 0
+      },
+      {
+         "Name": "Tools",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "C:\\Users\\steve\\AppData\\Local\\ToolMgr.db",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
